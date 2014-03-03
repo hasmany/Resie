@@ -1,0 +1,44 @@
+.picture, img {
+  width: 450px;
+  height: 350px;
+  float:left;
+  padding: 15px;
+}
+
+.info {
+  float:left;
+  height:1000px;
+  background-color:#333333;
+  color: #D8D8D8;
+  width:200px;
+  text-align: center;
+}
+
+.logo {
+  width:100px;
+  height:100px;
+  position: absolute;
+  margin: auto;
+  top: 125px;
+  left: 45px;
+
+}
+
+h1 {
+  text-indent: 220px;
+  
+}
+
+.filler {
+  color: #333333;
+}
+
+.latin {
+  text-indent: 220px;
+  font-size: 20px;
+  color:#B82E00;
+}
+
+body {
+  background-color: #FFFFEC;
+}
